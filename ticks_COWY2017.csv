@@ -1,0 +1,92 @@
+,state,city,county,host,species,date,stage,bitecrawling,sex,habitat,activity
+1,CO,Gold Hill,Boulder,human,Dermacentor andersoni,5/16/17,adult,bite,female,wooded,walking
+2,CO,Boulder,Boulder,human,Dermacentor andersoni,6/20/17,adult,crawling,female,wooded,working out
+3,CO,Paonia,Delta,human,Dermacentor andersoni,6/16/17,adult,bite,female,brush,unknown
+4,CO,Gold Hill,Boulder,human,Dermacentor andersoni,6/19/17,adult,bite,female,wooded,walking
+5,CO,Hayden,Routt,human,Dermacentor andersoni,6/24/17,adult,bite,female,wooded,camping
+6,WY,Jackson,Teton,human,Dermacentor andersoni,6/25/17,adult,bite,female,wooded,camping
+7,WY,Rock River,Albany,human,Dermacentor andersoni,4/23/16,adult,bite,female,yard,yard work
+8,CO,San Luis Valley,Rio Grande,human,Dermacentor andersoni,6/11/17,adult,bite,male,unknown,walking
+9,CO,Longmont,Boulder,human,Dermacentor andersoni,6/27/17,adult,bite,male,wooded,other
+10,CO,Buena Vista,Chaffee,human,Dermacentor andersoni,5/11/16,adult,bite,male,unknown,NA
+11,CO,El Paso City,El Paso,dog,Rhipicephalus sanguineus,5/17/16,adult,bite,female,unknown,dog gromer found it
+12,CO,Jamestown,Boulder,human,Dermacentor andersoni,5/20/16,adult,bite,female,wooded area,camp
+13,CO,Salida,Chaffee,human,Dermacentor andersoni,6/1/16,adult,bite,female,wooded area,unknown
+14,CO,Ouray,Ouray,human,Dermacentor andersoni,5/30/16,adult,bite,female,wooded area,camping
+15,CO,Denver,Denver,dog,Dermacentor andersoni,6/6/16,adult,bite,female,washington park,NA
+16,CO,Salida,Chaffee,human,Dermacentor andersoni,6/2/16,adult,bite,female,lodgepole pine forest,forest management
+17,CO,Brighton,Adams,bird,Not a tick,9/30/16,n/a,bite,n/a,unknown,NA
+18,CO,Gunnison,Gunnison,n/a,Dermacentor andersoni,6/15/16,adult,crawling,male,lake shore,swimming at the lake
+19,CO,Buena Vista,Chaffee,human,Dermacentor andersoni,8/9/16,adult,crawling,male,pine brush,fieldwork
+20,CO,Aspen,Pitkin,human,Dermacentor andersoni,6/24/16,adult,bite,female,wooded area,hiking
+21,WY,Yellowstone,Park,human,Dermacentor andersoni,6/1/16,adult,bite,female,yellow stone,camping/ playing outside
+22,CO,Brighton,Adams,bird,Heamaphysalis leporispalustris,10/8/16,larvae,bite,n/a,barr lake state wildlife area,bird banding research
+23,WY,Cheyenne,Laramie,dog,Dermacentor andersoni,6/29/16,adult,bite,female,pond edge,walkingdog
+24,CO,Boulder,Boulder,human,Dermacentor andersoni,7/14/16,adult,bite,female,wooded area around playground,playing in tree house
+25,CO,Littleton,Jefferson,human,Dermacentor andersoni,6/28/16,adult,bite,female,lake area,fishing
+26,CO,Lone Tree,Douglas,dog,Rhipicephalus sanguineus,11/9/16,adult,crawling,male,grassland,yard or walk
+27,CO,Evergreen,Jefferson,human,Dermacentor andersoni,3/16/17,adult,bite,male,forest,playing outside
+28,CO,Salida,Chaffee,human,Dermacentor andersoni,4/12/17,adult,crawling,female,pinyon juniper,hiking
+29,CO,Salida,Chaffee,human,Dermacentor andersoni,4/12/17,adult,bite,female,woods. ponderosa pine,hiking woods
+30,CO,Drake,Larimer,n/a,Dermacentor andersoni,4/16/17,adult,crawling,female,forest,hiking
+31,CO,Drake,Larimer,n/a,Dermacentor andersoni,4/16/17,adult,crawling,male,forest,hiking
+32,CO,Maysville,Chaffee,human,Dermacentor andersoni,4/19/17,adult,bite,female,lodgepole pine forest,forestry walk
+33,CO,Paonia,Delta,human,Dermacentor andersoni,4/20/17,adult,bite,female,garden,gardening
+34,CO,Boulder,Boulder,human,Dermacentor andersoni,4/23/17,adult,crawling,male,mount sanitas,hiking
+35,CO,Steamboat Springs,Routt,n/a,Dermacentor andersoni,4/23/17,adult,crawling,female,unknown,in the house
+36,CO,Steamboat Springs,Routt,human,Dermacentor andersoni,5/8/17,adult,bite,female,outdoors,playing outside
+37,WY,Laramie,Albany,human,Dermacentor andersoni,5/7/17,adult,bite,female,curt gowdy state park,hiking
+38,WY,Laramie,Albany,human,Dermacentor andersoni,5/7/17,adult,bite,female,curt gowdy state park,hiking
+39,CO,Glenwood Springs,Garfield,human,Dermacentor andersoni,5/7/17,adult,bite,female,"scrub oak, garden",trail cleaning
+40,CO,Salida,Chaffee,human,Dermacentor andersoni,4/18/16,adult,bite,female,"sage, grass, ponderosa",NA
+41,CO,Poncha Springs,Chaffee,human,Dermacentor andersoni,5/11/17,adult,bite,male,"desert, brush",trail work
+42,CO,Poncha Springs,Chaffee,human,Dermacentor andersoni,5/11/17,adult,bite,male,"desert, brush",trail work
+43,CO,Poncha Springs,Chaffee,human,Dermacentor andersoni,5/11/17,adult,bite,female,"desert, brush",trail work
+44,CO,Erie,Weld,human,Dermacentor andersoni,5/11/17,adult,bite,female,field,walkingdogs
+45,CO,Erie,Weld,human,Dermacentor andersoni,5/11/17,adult,bite,male,field,walkingdogs
+46,WY,Laramie,Albany,human,Dermacentor andersoni,5/12/17,adult,bite,male,canyon,long distance shooting
+47,WY,Laramie,Albany,human,Dermacentor andersoni,5/12/17,adult,bite,male,canyon,long distance shooting
+48,CO,Florissant,Park,human,Dermacentor andersoni,4/3/17,adult,bite,female,forest,hiking
+49,CO,Broomfield,Broomfield,human,Unidentifiable,5/15/17,adult,bite,female,suburban,bike ride
+50,CO,Alamosa,Alamosa,human,Dermacentor andersoni,5/6/17,adult,crawling,female,sand dunes,hiking
+51,CO,Fort Collins,Larimer,human,Dermacentor andersoni,5/15/17,adult,bite,female,school,volunteering
+52,CO,Longmont,Boulder,human,Dermacentor andersoni,5/21/17,adult,bite,female,long grass in back yard,playing in grass
+53,CO,Nathrop,Chaffee,human,Dermacentor andersoni,5/24/17,adult,crawling,male,riperian area with cottonwoods,hiking along trail
+54,CO,Boulder,Boulder,human,Dermacentor andersoni,4/17/16,adult,bite,female,unknown,lying on the floor
+55,CO,Grand Lake,Grand,human,Dermacentor andersoni,5/28/17,adult,bite,male,"lodge pole, willows",hiking
+56,WY,Wordland,Washakie,human,Dermacentor andersoni,5/27/17,adult,bite,female,"cheat grass, sagebrush",making bed
+57,CO,Nederland,Boulder,n/a,Dermacentor andersoni,5/15/17,adult,crawling,female,wooded area,wood gathering
+58,CO,Nederland,Boulder,n/a,Dermacentor andersoni,5/15/17,adult,crawling,female,wooded area,wood gathering
+59,CO,Nederland,Boulder,n/a,Dermacentor andersoni,5/15/17,adult,crawling,female,wooded area,wood gathering
+60,CO,Nederland,Boulder,n/a,Dermacentor andersoni,5/15/17,adult,crawling,female,wooded area,wood gathering
+61,CO,Nederland,Boulder,n/a,Dermacentor andersoni,5/15/17,adult,crawling,female,wooded area,wood gathering
+62,WY,Chayenne,Laramie,human,Dermacentor andersoni,5/28/17,adult,crawling,female,medicine bow mountains,mountain biking
+63,CO,Unspecified,Jefferson,human,Unidentifiable,5/29/17,unknown,bite,n/a,wooded trail system,hiking
+64,CO,Salida,Chaffee,human,Dermacentor andersoni,4/28/17,adult,bite,male,ponderosa/ aspen forest,conducting tree surveys
+65,CO,Denver,Denver,human,Dermacentor andersoni,6/6/17,adult,bite,female,city,unknown
+66,CO,Boulder,Boulder,human,Dermacentor andersoni,6/8/17,adult,crawling,female,meadow,seed scouting
+67,CO,Estes Park,Larimer,human,Dermacentor andersoni,6/4/17,adult,bite,female,wooded,hiking
+68,CO,Salida,Chaffee,dog,Dermacentor variabilis,6/7/17,adult,bite,female,wooded,walking
+69,CO,Salida,Chaffee,human,Dermacentor variabilis,6/29/17,adult,crawling,female,wooded,biking
+70,CO,Crestone,Saguache,dog,Dermacentor variabilis,6/26/17,adult,bite,female,wooded,walking
+71,CO,Salida,Chaffee,dog,Dermacentor variabilis,6/26/17,adult,bite,female,wooded,walking
+72,CO,Salida,Chaffee,dog,Dermacentor variabilis,6/26/17,adult,bite,male,wooded,walking
+73,CO,Salida,Chaffee,dog,Dermacentor variabilis,6/26/17,adult,bite,male,wooded,walking
+74,CO,Salida,Chaffee,dog,Dermacentor variabilis,6/26/17,adult,bite,male,wooded,walking
+75,CO,Salida,Chaffee,dog,Dermacentor variabilis,6/26/17,adult,bite,male,wooded,walking
+76,CO,Salida,Chaffee,dog,Dermacentor variabilis,6/26/17,adult,bite,male,wooded,walking
+77,CO,Salida,Chaffee,dog,Dermacentor variabilis,6/26/17,adult,bite,male,wooded,walking
+78,CO,Salida,Chaffee,dog,Dermacentor variabilis,6/26/17,adult,bite,male,wooded,walking
+79,CO,Salida,Chaffee,dog,Dermacentor variabilis,6/26/17,adult,bite,female,wooded,walking
+80,CO,Salida,Chaffee,dog,Dermacentor variabilis,6/26/17,adult,bite,female,wooded,walking
+81,CO,Salida,Chaffee,dog,Dermacentor variabilis,6/26/17,adult,bite,female,wooded,walking
+82,CO,Salida,Chaffee,dog,Dermacentor variabilis,6/26/17,adult,bite,female,wooded,walking
+83,CO,Salida,Chaffee,dog,Dermacentor variabilis,6/26/17,adult,bite,female,wooded,walking
+84,CO,Salida,Chaffee,dog,Dermacentor variabilis,6/26/17,adult,bite,female,wooded,walking
+85,CO,Salida,Chaffee,dog,Dermacentor variabilis,6/26/17,adult,bite,female,wooded,walking
+86,CO,Salida,Chaffee,dog,Dermacentor variabilis,6/26/17,adult,bite,male,wooded,walking
+87,CO,Salida,Chaffee,human,Dermacentor variabilis,6/4/17,adult,crawling,female,wooded,walking
+88,CO,Burlington,Kit Carson,dog,Dermacentor variabilis,9/28/17,adult,crawling,male,grassy,walking pet
+89,CO,Buena Vista,Chaffee,human,Dermacentor andersoni,4/8/18,adult,crawling,female,arkansas river,fishing
+90,CO,Denver,Denver,human,Amblyomma cajennense,6/13/18,nymph,bite,n/a,unknown,visiting family
+91,CO,Saguache,Saguache,human,Dermacentor andersoni,6/19/18,adult,crawling,female,creek/riparian,riparian assessmant
